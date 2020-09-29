@@ -1,0 +1,20 @@
+PODS:
+  - AESCrypt-ObjC (1.0.2)
+  - CommonCrypto (1.1)
+
+DEPENDENCIES:
+  - AESCrypt-ObjC
+  - CommonCrypto
+
+SPEC REPOS:
+  trunk:
+    - AESCrypt-ObjC
+    - CommonCrypto
+
+SPEC CHECKSUMS:
+  AESCrypt-ObjC: 6d930ff891a61b90505855e9447959a84be80715
+  CommonCrypto: e18c8416332cca5efe80c197f2a522d471c42626
+
+PODFILE CHECKSUM: b7de2e14b299d76af1a352d8cbf4ac8699f95552
+
+COCOAPODS: 1.9.3
